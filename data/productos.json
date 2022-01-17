@@ -1,0 +1,66 @@
+[
+    {
+       "id": 1,
+        "nombre": "STELLA",
+        "precio": 180,
+        "tipo":"bebidas",
+        "stock": 3,
+        "imagen":"./img/stella.jpg"
+    },
+    {
+        "id": 2,
+         "nombre": "MILLER",
+         "precio": 200,
+         "tipo":"bebidas",
+         "stock": 50,
+         "imagen":"./img/miller.jpg"
+     },
+     {
+        "id": 3,
+         "nombre": "IGUANA",
+         "precio": 210,
+         "tipo":"bebidas",
+         "stock": 50,
+         "imagen":"./img/iguana2.jpg"
+     },
+     {
+        "id": 4,
+         "nombre": "QUILMES",
+         "precio": 190,
+         "tipo":"bebidas",
+         "stock": 100,
+         "imagen":"./img/quilmes.jpg"
+     },
+     {
+        "id": 5,
+         "nombre": "HEINEKEN",
+         "precio": 180,
+         "tipo":"bebidas",
+         "stock": 3,
+         "imagen":"./img/heineken.jpg"
+     },
+     {
+         "id": 6,
+          "nombre": "AMSTEL",
+          "precio": 200,
+          "tipo":"bebidas",
+          "stock": 50,
+          "imagen":"./img/amstel.jpg"
+      },
+      {
+         "id": 7,
+          "nombre": "IMPERIAL",
+          "precio": 210,
+          "tipo":"bebidas",
+          "stock": 50,
+          "imagen":"./img/imperial.jpg"
+      },
+      {
+         "id": 8,
+          "nombre": "CORONA",
+          "precio": 190,
+          "tipo":"bebidas",
+          "stock": 100,
+          "imagen":"./img/corona.jpg"
+      }
+]
