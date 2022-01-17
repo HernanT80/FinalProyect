@@ -29,7 +29,7 @@
          "precio": 190,
          "tipo":"bebidas",
          "stock": 100,
-         "imagen":"./img/quilmes.jpg"
+         "imagen":"./img/quiLmes.jpg"
      },
      {
         "id": 5,
